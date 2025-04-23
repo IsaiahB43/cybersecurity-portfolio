@@ -1,0 +1,6 @@
+2025-04-10 14:23:55 - LOGIN - user:admin - status:failed - ip:192.168.1.15
+2025-04-10 14:24:10 - LOGIN - user:bob - status:success - ip:192.168.1.20
+2025-04-10 14:25:33 - LOGIN - user:admin - status:failed - ip:192.168.1.15
+2025-04-10 14:26:44 - LOGIN - user:admin - status:failed - ip:192.168.1.15
+2025-04-10 14:27:12 - LOGIN - user:alice - status:failed - ip:10.0.0.5
+2025-04-10 14:28:09 - LOGIN - user:admin - status:failed - ip:192.168.1.15
